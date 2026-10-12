@@ -2,7 +2,6 @@
 
 """Tests for `lab3ajff` package."""
 
-
 import unittest
 
 from lab3ajff import lab3ajff
